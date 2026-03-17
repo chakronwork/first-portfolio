@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     siteName: 'Chakron Yuraket Portfolio',
     images: [
       {
-        url: '/images/og-image.png',
+        url: 'public/images/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Portfolio Preview of Chakron Yuraket',
