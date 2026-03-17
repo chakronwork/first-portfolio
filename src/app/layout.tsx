@@ -6,8 +6,24 @@ import { Navbar } from '../components/ui/Navbar';
 const inter = Inter({ subsets: ['latin'], display: 'swap' });
 
 export const metadata: Metadata = {
-  title: 'Chakron Yuraket | Software Engineer',
+  title: 'Chakron Yuraket | Internship',
   description: 'Portfolio',
+  openGraph: {
+    title: 'Chakron Yuraket | Internship',
+    description: 'Check out my latest projects and technical skills.',
+    url: 'https://first-portfolio-three-ashen.vercel.app', 
+    siteName: 'Chakron Yuraket Portfolio',
+    images: [
+      {
+        url: '/images/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'Portfolio Preview of Chakron Yuraket',
+      },
+    ],
+    locale: 'en_US',
+    type: 'website',
+  },
 };
 
 export default function RootLayout({
