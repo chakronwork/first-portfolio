@@ -57,4 +57,22 @@ export const projectsData: Project[] = [
     link: "https://drive.google.com/file/d/1fsdHMG5CZV1aiKOJJKNjbPoIQkpF3qKp/view?usp=drive_link",
     linkLabel: "Watch Demo"
   },
+  {
+    id: "ps3 รูปหน้าตรง สัตว์ 1.5นิ้ว",
+    title: "ps3 รูปหน้าตรง สัตว์ 1.5นิ้ว",
+    description: "",
+    techStack: ["PDF"],
+    category: "ACADEMIC",
+    link: "https://drive.google.com/file/d/18w4DTVjbQXSQONeHlVLON1CHDLMsmOCL/view?usp=sharing",
+    linkLabel: "Watch Demo"
+  },
+  {
+    id: "ps4 รูปหน้าตรง คน 1.5นิ้ว",
+    title: "ps4 รูปหน้าตรง คน 1.5นิ้ว",
+    description: "",
+    techStack: ["PDF"],
+    category: "ACADEMIC",
+    link: "https://drive.google.com/file/d/1cW0qA9ILvvlejrK0neb9-aUlY4w5ZQv2/view?usp=sharing",
+    linkLabel: "Watch Demo"
+  },
 ];
