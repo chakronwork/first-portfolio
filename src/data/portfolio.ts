@@ -61,7 +61,7 @@ export const projectsData: Project[] = [
     id: "ps3 รูปหน้าตรง สัตว์ 1.5นิ้ว",
     title: "ps3 รูปหน้าตรง สัตว์ 1.5นิ้ว",
     description: "",
-    techStack: ["PDF"],
+    techStack: ["JPG"],
     category: "ACADEMIC",
     link: "https://drive.google.com/file/d/18w4DTVjbQXSQONeHlVLON1CHDLMsmOCL/view?usp=sharing",
     linkLabel: "Watch Demo"
@@ -70,7 +70,7 @@ export const projectsData: Project[] = [
     id: "ps4 รูปหน้าตรง คน 1.5นิ้ว",
     title: "ps4 รูปหน้าตรง คน 1.5นิ้ว",
     description: "",
-    techStack: ["PDF"],
+    techStack: ["JPG"],
     category: "ACADEMIC",
     link: "https://drive.google.com/file/d/1cW0qA9ILvvlejrK0neb9-aUlY4w5ZQv2/view?usp=sharing",
     linkLabel: "Watch Demo"
