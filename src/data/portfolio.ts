@@ -75,4 +75,22 @@ export const projectsData: Project[] = [
     link: "https://drive.google.com/file/d/1cW0qA9ILvvlejrK0neb9-aUlY4w5ZQv2/view?usp=sharing",
     linkLabel: "Watch Demo"
   },
+  {
+    id: "ps5 รูปหน้าตรง คน 1.5นิ้ว",
+    title: "ps5 รูปหน้าตรง คน 1.5นิ้ว",
+    description: "",
+    techStack: ["JPG"],
+    category: "ACADEMIC",
+    link: "https://drive.google.com/file/d/1cW0qA9ILvvlejrK0neb9-aUlY4w5ZQv2/view?usp=sharing",
+    linkLabel: "Watch Demo"
+  },
+  {
+    id: "ps6 รูปโฆษณาสินค้า",
+    title: "ps6 รูปโฆษณาสินค้า",
+    description: "",
+    techStack: ["JPG"],
+    category: "ACADEMIC",
+    link: "https://drive.google.com/file/d/1E974Un4YgNf1iEY_10IOaq9GjEOX9VbB/view?usp=drive_link",
+    linkLabel: "Watch Demo"
+  },
 ];
